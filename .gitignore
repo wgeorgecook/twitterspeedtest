@@ -1,1 +1,2 @@
-settings.py # Sensitive info here
+settings.py
+__pycache__
