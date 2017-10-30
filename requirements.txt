@@ -1,0 +1,2 @@
+fastdotcom==0.0.1
+tweepy==3.5.0
