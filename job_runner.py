@@ -2,6 +2,6 @@
 
 # Runs the Python job
 
-from twitter_stuff import update_status
+from post_to_twitter import update_status
 
 update_status()
