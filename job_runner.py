@@ -1,5 +1,7 @@
 # Runs the Python job
 
-from lib.twitter.post_to_twitter import Update_twitter
+from lib.twitter.post_to_twitter import UpdateTwitter
 
-Update_twitter.update_status()
+push = UpdateTwitter()
+
+push.update_status()
